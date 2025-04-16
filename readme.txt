@@ -1,5 +1,5 @@
-The original csv files for with 10Mil+ bike ride records from the Capital Bikeshare scheme spanning over the years from 2021 to 2023 are not included in the uploaded files due to memory space constraints.
-My focus was on the year 2023. The files uploaded on Github are aggregated at the weekly level and by station already. 
+The original csv file for with 10Mil+ bike ride records from the Capital Bikeshare scheme spanning over the years from 2021 to 2023 is included in the uploaded files due to memory space constraints.
+My focus was on the year 2023. The ipynb files uploaded on Github show the aggregation at annual and at weekly level and by station (both). 
 
 I included bike station capacity data from opendata.dc.gov.
 
