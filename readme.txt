@@ -9,7 +9,7 @@ With the help of ChatGPT, I then created additional features like distance-to-ci
 
 This feature creation was done in order to aid the prediction of my main KPIs: imbalance and turnover.
 
-I then used Machine Learning (Univariate and Multivariate) to identify the best model, feature combination, hyperparameter setting to predict both KPIs.
+I then used Machine Learning (Regression: Univariate, Polyvariate and Multivariate) to identify the best model, feature combination, hyperparameter setting to predict both KPIs.
 
 The summary of my findings can be found in the presentation file: CapitalBikeShare_presentation_PULSMarc_20250403.
 
